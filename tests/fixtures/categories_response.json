@@ -1,0 +1,35 @@
+{
+  "filters": [
+    {
+      "name": "category",
+      "filter_items": [
+        {
+          "display_name": "Elektronikk og hvitevarer",
+          "name": "category",
+          "value": "0.93",
+          "filter_items": [
+            {
+              "display_name": "Data",
+              "name": "sub_category",
+              "value": "1.93.3215",
+              "filter_items": [
+                {
+                  "display_name": "Datakomponenter",
+                  "name": "product_category",
+                  "value": "2.93.3215.8368",
+                  "filter_items": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "display_name": "Sport og friluftsliv",
+          "name": "category",
+          "value": "0.94",
+          "filter_items": []
+        }
+      ]
+    }
+  ]
+}

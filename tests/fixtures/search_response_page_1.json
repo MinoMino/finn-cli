@@ -1,0 +1,73 @@
+{
+  "docs": [
+    {
+      "id": "455566626",
+      "heading": "VANQUISHER iZ329X Gaming PC - RTX 4080 SUPER 16gb",
+      "location": "Oslo",
+      "canonical_url": "https://www.finn.no/recommerce/forsale/item/455566626",
+      "trade_type": "Til salgs",
+      "price": {
+        "amount": 24000,
+        "currency_code": "NOK",
+        "price_unit": "kr"
+      },
+      "timestamp": 1773577066000,
+      "flags": ["private", "shipping_exists", "buy_now"],
+      "labels": [
+        { "text": "Fiks ferdig" },
+        { "text": "Kjøp nå" },
+        { "text": "Privat" }
+      ],
+      "image": {
+        "url": "https://images.finncdn.no/dynamic/default/item/455566626/07b2e543-ade3-4255-a24c-9d6bf6787f29"
+      },
+      "image_urls": [
+        "https://images.finncdn.no/dynamic/default/item/455566626/07b2e543-ade3-4255-a24c-9d6bf6787f29"
+      ],
+      "ad_id": 455566626
+    },
+    {
+      "id": "455137907",
+      "heading": "ASUS ROG STRIX G16 RTX 4080, i7, 32GB, 1TB",
+      "location": "Geilo",
+      "canonical_url": "https://www.finn.no/recommerce/forsale/item/455137907",
+      "trade_type": "Til salgs",
+      "price": {
+        "amount": 19999,
+        "currency_code": "NOK",
+        "price_unit": "kr"
+      },
+      "timestamp": 1773500000000,
+      "flags": ["retailer"],
+      "labels": [
+        { "text": "Forhandler" }
+      ],
+      "image": {
+        "url": "https://images.finncdn.no/dynamic/default/2026/3/vertical-5/12/7/455/137/907_b88657bf-c191-47f9-9251-7fb6d91d03b7.jpg"
+      },
+      "image_urls": [
+        "https://images.finncdn.no/dynamic/default/2026/3/vertical-5/12/7/455/137/907_b88657bf-c191-47f9-9251-7fb6d91d03b7.jpg"
+      ],
+      "brand": "Asus",
+      "extras": [
+        {
+          "id": "brand",
+          "values": ["Asus"]
+        }
+      ],
+      "ad_id": 455137907
+    }
+  ],
+  "metadata": {
+    "paging": {
+      "current": 1,
+      "last": 2
+    },
+    "result_size": {
+      "match_count": 4
+    },
+    "title": "rtx 4080, Elektronikk og hvitevarer",
+    "search_key_description": "Torget",
+    "is_end_of_paging": false
+  }
+}

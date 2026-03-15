@@ -1,0 +1,153 @@
+{
+  "docs": [
+    {
+      "type": "bap",
+      "id": "436749637",
+      "main_search_key": "SEARCH_ID_BAP_ALL",
+      "heading": "MSI Radeon RX 6900 XT BYTTE+MELLOMLEGG",
+      "location": "Hærland",
+      "image": {
+        "url": "https://images.finncdn.no/dynamic/default/item/436749637/5e11d494-6a1a-41b9-86e2-8713665f57fd",
+        "path": "item/436749637/5e11d494-6a1a-41b9-86e2-8713665f57fd",
+        "height": 400,
+        "width": 499,
+        "aspect_ratio": 1.2475
+      },
+      "flags": ["private"],
+      "timestamp": 1773263362000,
+      "coordinates": {
+        "lat": 59.5533,
+        "lon": 11.4237,
+        "accuracy": 5
+      },
+      "ad_type": 67,
+      "labels": [
+        {
+          "id": "private",
+          "text": "Privat",
+          "type": "SECONDARY"
+        }
+      ],
+      "canonical_url": "https://www.finn.no/recommerce/forsale/item/436749637",
+      "extras": [],
+      "price": {
+        "amount": 4000,
+        "currency_code": "NOK",
+        "price_unit": "kr"
+      },
+      "distance": 0.0,
+      "trade_type": "Til salgs",
+      "image_urls": [
+        "https://images.finncdn.no/dynamic/default/item/436749637/5e11d494-6a1a-41b9-86e2-8713665f57fd"
+      ],
+      "ad_id": 436749637
+    },
+    {
+      "type": "bap",
+      "id": "453431778",
+      "main_search_key": "SEARCH_ID_BAP_ALL",
+      "heading": "ASUS ROG Strix G16, RTX4080 12GB, I9-13980HX, 32GB, 1TB",
+      "location": "Tiller",
+      "image": {
+        "url": "https://images.finncdn.no/dynamic/default/item/453431778/96c27129-2303-4f03-92c6-8e087d103a17",
+        "path": "item/453431778/96c27129-2303-4f03-92c6-8e087d103a17",
+        "height": 732,
+        "width": 996,
+        "aspect_ratio": 1.360655737704918
+      },
+      "flags": ["private"],
+      "timestamp": 1772452946000,
+      "coordinates": {
+        "lat": 63.3331,
+        "lon": 10.36691,
+        "accuracy": 5
+      },
+      "ad_type": 67,
+      "labels": [
+        {
+          "id": "private",
+          "text": "Privat",
+          "type": "SECONDARY"
+        }
+      ],
+      "canonical_url": "https://www.finn.no/recommerce/forsale/item/453431778",
+      "extras": [
+        {
+          "id": "brand",
+          "label": "",
+          "values": ["Asus"]
+        }
+      ],
+      "price": {
+        "amount": 18000,
+        "currency_code": "NOK",
+        "price_unit": "kr"
+      },
+      "distance": 0.0,
+      "trade_type": "Til salgs",
+      "image_urls": [
+        "https://images.finncdn.no/dynamic/default/item/453431778/96c27129-2303-4f03-92c6-8e087d103a17"
+      ],
+      "brand": "Asus",
+      "ad_id": 453431778
+    }
+  ],
+  "metadata": {
+    "params": {
+      "q": ["rtx 4080"],
+      "page": ["2"],
+      "category": ["0.93"]
+    },
+    "search_key": "SEARCH_ID_BAP_COMMON",
+    "selected_filters": [
+      {
+        "parameters": [
+          {
+            "parameter_name": "category",
+            "parameter_value": "0.93"
+          }
+        ],
+        "filter_name": "category",
+        "display_name": "Elektronikk og hvitevarer",
+        "prefix": ""
+      }
+    ],
+    "num_results": 25,
+    "quest_time": 37,
+    "solr_time": 28,
+    "solr_elapsed_time": 30,
+    "result_size": {
+      "match_count": 78,
+      "group_count": 78
+    },
+    "paging": {
+      "param": "page",
+      "current": 2,
+      "last": 2
+    },
+    "title": "rtx 4080, Elektronikk og hvitevarer",
+    "is_savable_search": true,
+    "search_key_description": "Torget",
+    "vertical": "BAP",
+    "vertical_description": "Torget",
+    "sort": "RELEVANCE",
+    "descriptions": {
+      "title": "rtx 4080, Elektronikk og hvitevarer",
+      "heading": "rtx 4080, Elektronikk og hvitevarer"
+    },
+    "uuid": "fcb3e9c2-0009-428e-aaee-e0530ed12e3c",
+    "tracking": {
+      "object": {
+        "filters": {
+          "query": "rtx 4080"
+        }
+      }
+    },
+    "guided_search": {
+      "suggestions": []
+    },
+    "actions": [],
+    "is_end_of_paging": true,
+    "timestamp": 1773584211000
+  }
+}
